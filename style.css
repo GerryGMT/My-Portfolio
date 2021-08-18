@@ -558,6 +558,9 @@ footer .notice {
 }
 
 @media (max-width: 660px) {
+    body {
+        overflow-x: visible;
+    }
     header h1 {
         font-size: 5em;
     }
